@@ -1,3 +1,14 @@
+body{
+    background-color:rgb(37, 35, 35);
+}
+
+.site{
+    background-color: white;
+    border-color: goldenrod;
+    border-style:double;
+    margin: 50px;
+    padding: 50px;
+}
 
 .title{
     font-size: xx-large;
